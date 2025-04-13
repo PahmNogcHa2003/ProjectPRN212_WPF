@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF255040-C998-4366-9BD9-F142ED40D392}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\microsoft visual studio\\project212\\dataaccesslayer\\bookingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|d:\\microsoft visual studio\\project212\\fuminihotel_projectprn212\\pages\\customerbookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|solutionrelative:pages\\customerbookingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|d:\\microsoft visual studio\\project212\\fuminihotel_projectprn212\\booking\\bookingdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|solutionrelative:booking\\bookingdetailswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F091-FD55-4074-8D69-3C7B45EE212D}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\microsoft visual studio\\project212\\businessobjects\\bookingdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F091-FD55-4074-8D69-3C7B45EE212D}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\microsoft visual studio\\project212\\businessobjects\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|d:\\microsoft visual studio\\project212\\fuminihotel_projectprn212\\customer\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|solutionrelative:customer\\customerdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|d:\\microsoft visual studio\\project212\\fuminihotel_projectprn212\\pages\\customerbookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|solutionrelative:pages\\customerbookingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|d:\\microsoft visual studio\\project212\\fuminihotel_projectprn212\\customer\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|solutionrelative:customer\\customerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF255040-C998-4366-9BD9-F142ED40D392}|..\\DataAccessLayer\\DataAccessLayer.csproj|d:\\microsoft visual studio\\project212\\dataaccesslayer\\roomdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F091-FD55-4074-8D69-3C7B45EE212D}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\microsoft visual studio\\project212\\businessobjects\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F091-FD55-4074-8D69-3C7B45EE212D}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\microsoft visual studio\\project212\\businessobjects\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADC1F091-FD55-4074-8D69-3C7B45EE212D}|..\\BusinessObjects\\BusinessObjects.csproj|d:\\microsoft visual studio\\project212\\businessobjects\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|d:\\microsoft visual studio\\project212\\fuminihotel_projectprn212\\admin\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{920E4C8B-41B9-4905-BE03-63022FCD85BD}|FUMiniHotel_ProjectPRN212.csproj|solutionrelative:admin\\admindashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerBookingPage.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Pages\\CustomerBookingPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\CustomerBookingPage.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Pages\\CustomerBookingPage.xaml",
+              "RelativeToolTip": "Pages\\CustomerBookingPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:23:42.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingDAO.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\BookingDAO.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\DataAccessLayer\\BookingDAO.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\BookingDAO.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAiwIEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:22:08.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RoomDAO.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\RoomDAO.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\DataAccessLayer\\RoomDAO.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\RoomDAO.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAADwv20AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:29:02.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDashboard.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Customer\\CustomerDashboard.xaml",
+              "RelativeDocumentMoniker": "Customer\\CustomerDashboard.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Customer\\CustomerDashboard.xaml",
+              "RelativeToolTip": "Customer\\CustomerDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:38:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\Booking.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\Booking.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\Booking.cs",
+              "RelativeToolTip": "..\\BusinessObjects\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:29:30.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingDetail.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\BookingDetail.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\BookingDetail.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\BookingDetail.cs",
+              "RelativeToolTip": "..\\BusinessObjects\\BookingDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:31:37.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerBookingPage.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Pages\\CustomerBookingPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\CustomerBookingPage.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Pages\\CustomerBookingPage.xaml.cs",
+              "RelativeToolTip": "Pages\\CustomerBookingPage.xaml.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwK8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:27:20.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingDetailsWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Booking\\BookingDetailsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Booking\\BookingDetailsWindow.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Booking\\BookingDetailsWindow.xaml.cs",
+              "RelativeToolTip": "Booking\\BookingDetailsWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:55:15.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Customer\\CustomerDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Customer\\CustomerDashboard.xaml.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Customer\\CustomerDashboard.xaml.cs",
+              "RelativeToolTip": "Customer\\CustomerDashboard.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA7wG0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:33:28.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\Service.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\Service.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\Service.cs",
+              "RelativeToolTip": "..\\BusinessObjects\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:21:07.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\RoomType.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\RoomType.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\RoomType.cs",
+              "RelativeToolTip": "..\\BusinessObjects\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:19:54.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDashboard.xaml",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Admin\\AdminDashboard.xaml",
+              "RelativeDocumentMoniker": "Admin\\AdminDashboard.xaml",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\FUMiniHotel_ProjectPRN212\\Admin\\AdminDashboard.xaml",
+              "RelativeToolTip": "Admin\\AdminDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-29T02:19:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\Room.cs",
+              "RelativeDocumentMoniker": "..\\BusinessObjects\\Room.cs",
+              "ToolTip": "D:\\Microsoft Visual Studio\\Project212\\BusinessObjects\\Room.cs",
+              "RelativeToolTip": "..\\BusinessObjects\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T02:16:52.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+﻿FUMiniHotel_ProjectPRN212
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\Microsoft Visual Studio\Project212\FUMiniHotel_ProjectPRN212\obj\Debug\net8.0-windows\
+FUMiniHotel_ProjectPRN212
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+D:\Microsoft Visual Studio\Project212\FUMiniHotel_ProjectPRN212\App.xaml
+27-614670887
+
+31-328484338
+246-1964816807
+AdminCustomer\AddCustomer.xaml;AdminCustomer\CustomerManagement.xaml;AdminCustomer\EditCustomer.xaml;Admin\AdminDashboard.xaml;Booking\BookingDetailsWindow.xaml;Booking\BookingManagement.xaml;Customer\CustomerDashboard.xaml;Employee\AddEmployee.xaml;Employee\EmployeeManagement.xaml;Employee\UpdateEmployee.xaml;Home.xaml;Invoice\InvoiceDetailWindow.xaml;Invoice\InvoiceManagement.xaml;Login.xaml;Pages\CustomerBookingPage.xaml;Profile\ChangePassword.xaml;Profile\EditProfile.xaml;Profile\Profile.xaml;Register.xaml;Room\AddRoom.xaml;Room\RoomManagement.xaml;Room\UpdateRoom.xaml;Service\AddServiceDialog.xaml;Service\EditServiceDialog.xaml;Service\ServiceManagement.xaml;Styles\ButtonStyles.xaml;Styles\UIColor.xaml;
+
+False
+
